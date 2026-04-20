@@ -2,14 +2,14 @@
 
 This program is a Project Progress Tracking System designed for academic groups to monitor task completion, allocate points, and determine if a projects meets the 75% "Ready" threshold. It automates progress calculation based on task types, member assignments, and completion status.
 
-What the Program Does
+##What the Program Does
 
 Assigns Weights: It categorizes task into five types (Program Logic, UI, Testing, Documentation, Presentation), assigning varying effort levels.
 Tracks Performance: It records who is assigned to a task and whether it is done (2 points) or pending (1 point).
 Calculate Progress: It calculates the percentage of total points earned against the maximum possible points (@ points per assigned task).
 Status Reporting: It generates a formatted "Task Board" output and evaluates if the project is "Project Ready" (if progress > 75%).
 
-How to Run It
+###How to Run It
 
 To execute a program like this (typically written in Python or a similar scripting language), follow these steps:
 
