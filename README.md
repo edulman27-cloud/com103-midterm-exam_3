@@ -17,6 +17,6 @@ To execute a program like this (typically written in Python or a similar scripti
    defined in the sample output.
 4. View Output: the program prints the final summary table and status report to the console.
 #### Logic Rules Summary
-Done Status: 2 Points
-Pending  Status: 1 Point
-Project Ready Threshold: > 75% total progress.
+- Done Status: 2 Points
+- Pending  Status: 1 Point
+- Project Ready Threshold: > 75% total progress.
